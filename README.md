@@ -20,8 +20,12 @@ Se você deseja contribuir com este projeto, siga as instruções abaixo:
 * Faça o push para o branch: git push origin minha-branch
 * Crie um novo Pull Request
 
-## Licença
-Este projeto está licenciado sob a licença MIT. Leia o arquivo LICENSE para mais informações.
+[Link](https://vercel.com/vitorsantos/policespromoday)
+
 
 ## Author
 👨‍💻 Vitor Santos
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Leia o arquivo LICENSE para mais informações.
+
