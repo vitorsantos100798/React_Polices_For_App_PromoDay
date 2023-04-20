@@ -20,7 +20,7 @@ Se você deseja contribuir com este projeto, siga as instruções abaixo:
 * Faça o push para o branch: git push origin minha-branch
 * Crie um novo Pull Request
 
-[Link](https://vercel.com/vitorsantos/policespromoday)
+[Link](https://policespromoday.vercel.app/)
 
 
 ## Author
